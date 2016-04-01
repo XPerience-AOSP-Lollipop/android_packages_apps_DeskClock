@@ -21,7 +21,7 @@
         <item name="android:layout_gravity">center_horizontal</item>
     </style>
 
-    <style name="DeskClock" parent="@android:style/Theme.Material.DayNight.DarkActionBar">
+    <style name="DeskClock" parent="@android:style/Theme.Material.DarkActionBar">
         <item name="android:buttonStyle">?android:attr/borderlessButtonStyle</item>
         <item name="android:dialogTheme">@style/DialogTheme</item>
         <item name="android:alertDialogTheme">@style/DialogTheme</item>
@@ -48,7 +48,7 @@
         <item name="android:headerAmPmTextAppearance">@style/AmPmTextAppearance</item>
     </style>
 
-    <style name="DialogTheme" parent="@android:style/Theme.Material.DayNight.Dialog">
+    <style name="DialogTheme" parent="@android:style/Theme.Material.Dialog">
         <item name="android:colorAccent">@color/hot_blue</item>
         <item name="android:colorPrimary">@color/hot_blue</item>
         <item name="android:colorPrimaryDark">@color/hot_blue_dark</item>
