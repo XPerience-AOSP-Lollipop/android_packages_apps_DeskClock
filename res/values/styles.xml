@@ -21,7 +21,7 @@
         <item name="android:layout_gravity">center_horizontal</item>
     </style>
 
-    <style name="DeskClock" parent="@android:style/Theme.Material.DarkActionBar">
+    <style name="DeskClock" parent="@android:style/Theme.Material">
         <item name="android:buttonStyle">?android:attr/borderlessButtonStyle</item>
         <item name="android:dialogTheme">@style/DialogTheme</item>
         <item name="android:alertDialogTheme">@style/DialogTheme</item>
